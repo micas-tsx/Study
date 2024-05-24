@@ -10,6 +10,7 @@ function clicou() {
     // console.log(input.setAttribute('placeholder', 'PLACEHOLDER alterado'))
     // set mudou o atributo
 
+    // esse cara faz mudança mas nem lembro como fiz isso e os conceitos por tras
     if(input.getAttribute('type') === 'text') {
         input.setAttribute('type', 'password')
         botao.innerText = 'mostrar senha'
