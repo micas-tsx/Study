@@ -16,7 +16,7 @@ function handleKeyUp(e) {
         lista.appendChild(newLi)
 
 
-        // zera o campo
+        // limpa o texto
         input.value = ''
     }
 }
