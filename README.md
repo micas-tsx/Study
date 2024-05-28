@@ -5,4 +5,8 @@
 ---
 
 - Estou agora estudando pela b7, você pode encontrar meus esstudos atuais na pasta B7
+    - Módulo 1, encontra minha documentação dos primeiros passos em JS
+    - Módulo 2, se encontra os estudos de JavaScript básico, conhecimentos geral de array, funções, objetos ...
+    - Módulo 3, se encontra estudos de manipulação de DOM
+    - Módulo 4 e atual estudo de POO (Programação Orientada a Objetos)
     - Na pasta Projeto, você vai encontrar meus projetos na prática desenvolvido durante o curso
