@@ -1,6 +1,6 @@
 let log = new Log(document.querySelector('.log'))
 
-let char = new Sorcerer('micas')
+let char = new Sorcerer('RamiBuraka')
 
 let monster = new BigMonster() 
 
