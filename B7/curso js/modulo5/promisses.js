@@ -32,6 +32,4 @@ function clicou() {
     // fetch('https://jsonplaceholder.typicode.com/posts').then((response) => {return response.json()}).then((json) => alert(`Titulo do primerio post: ${json[0].title}`))
 }
 
-function somar(x, y) {
-    return x + y
-}
+document.querySelector('#botao').addEventListener('click', clicou)
