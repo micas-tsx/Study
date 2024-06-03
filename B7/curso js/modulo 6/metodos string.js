@@ -9,13 +9,12 @@ let nome3 = '       micas        '
 // let resultado2 = nome2.indexOf('grangeiro')
 // let resultado = nome.toUpperCase()
 // let resultado = nome.toLowerCase()  
-// let resultado = nome.charAt(4)
 // let resultado2 = nome.replace('grangeiro', 'ribeiro')
 
 
+let resultado = nome.charAt(4)
 let resultado2 = nome2.split(' ')
 let resultado3 = nome3.trim()
-
 
 
 // utilização de .indexOf

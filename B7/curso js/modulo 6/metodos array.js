@@ -2,7 +2,7 @@
 
 let list = ['ovo', 'farinha', 'cenoura', 'massa']
 let list2 = ['prato', 'garfo', 'faca']
-let list3 = [1, 2, 3, 4, 5, 6, 7]
+let list3 = [1, 2, 3, 4, 5, 6, 7] 
 let listEmpty = []
 
 // let res = list.toString()
@@ -50,6 +50,18 @@ listEmpty = list.some(function(item) {
 // igual o every, porem se um satisfazer ja retorna true
 
 
+listEmpty = list3.find(function(item) {
+    if(item == 5) {
+        return true
+    } else {
+        return false
+    }
+
+    // tbm pode ser escrito assim
+    // return (item == 16) ? true : false
+    // sendo a condinção dentro dos parenteses e o restante é igual pra tudo btw
+})
+
 console.log(res)
 
 /*
@@ -87,4 +99,6 @@ meio q pega o array e usa em outro array
 .every() -> verifica se todos os itens do array satisfazem a condição
 .some() -> msm coisa que o every, mas se um só satisfazer ja retorna true
 
+.find() -> procura o primeiro item que satisfaz a condição e retorna ele
+.findIndex() -> faz a mesma coisa q o find, mas mostra a posição dele no array
 */
