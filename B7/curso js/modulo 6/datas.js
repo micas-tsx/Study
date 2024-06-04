@@ -14,8 +14,6 @@ recebe 7 parametros na ordem
 - milesimos
 */ 
 
-
-
 d.toDateString()
 // devolve uma versão mais resumida, data e hora
 
