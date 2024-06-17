@@ -9,5 +9,6 @@
     - Módulo 2: Estudos de JavaScript básico, conhecimentos geral de array, funções, objetos ...
     - Módulo 3: Estudos de manipulação de DOM.
     - Módulo 4: Estudo de POO (Programação Orientada a Objetos) e Programação Funcional.
-    - Módulo 5: Estudo de Requisições, Api e interação serividor e cliente.
+    - Módulo 5 e 7: Estudo de Requisições, Api e interação serividor e cliente.
+    - Módulo 6: Métodos, desconstrução intervalos
     - Na pasta Projeto, você vai encontrar meus projetos na prática desenvolvidos durante o curso.
