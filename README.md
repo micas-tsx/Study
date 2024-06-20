@@ -18,15 +18,15 @@
 ## Área de imagem dos projetos
 <div aling="center">
 
-<img widht=400 height=320 src="/B7/curso js/projetos/7 dias 7 projetos/imagens/bateria.png">
+<img aling="center" widht=400 height=320 src="/B7/curso js/projetos/7 dias 7 projetos/imagens/bateria.png">
 <p>Imagem do Projeto Bateria</p>
 </img>
 
-<img widht=400 height=320 src="/B7/curso js/projetos/7 dias 7 projetos/imagens/relogio.png">
+<img aling="center" widht=400 height=320 src="/B7/curso js/projetos/7 dias 7 projetos/imagens/relogio.png">
 <p>Imagem do Projeto Relógio</p>
 </img>
 
-<img widht=400 height=320 src="/B7/curso js/projetos/7 dias 7 projetos/imagens/clima.png">
+<img aling="center" widht=400 height=320 src="/B7/curso js/projetos/7 dias 7 projetos/imagens/clima.png">
 <p>Imagem do Projeto Clima</p>
 </img>
 
