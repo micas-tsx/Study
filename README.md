@@ -12,3 +12,22 @@
     - Módulo 5 e 7: Estudo de Requisições, Api e interação serividor e cliente.
     - Módulo 6: Métodos, desconstrução intervalos
     - Na pasta Projeto, você vai encontrar meus projetos na prática desenvolvidos durante o curso.
+
+---
+
+## Área de imagem dos projetos
+<div aling="center">
+
+<img widht=400 height=320 src="/B7/curso js/projetos/7 dias 7 projetos/imagens/bateria.png">
+<p>Imagem do Projeto Bateria</p>
+</img>
+
+<img widht=400 height=320 src="/B7/curso js/projetos/7 dias 7 projetos/imagens/relogio.png">
+<p>Imagem do Projeto Relógio</p>
+</img>
+
+<img widht=400 height=320 src="/B7/curso js/projetos/7 dias 7 projetos/imagens/clima.png">
+<p>Imagem do Projeto Clima</p>
+</img>
+
+</div>
