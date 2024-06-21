@@ -27,8 +27,8 @@
 <img widht=420 height=500 src="/B7/curso js/projetos/7 dias 7 projetos/imagens/relogio.png">
 </img>
 
-<img widht=420 height=500 src="/B7/curso js/projetos/7 dias 7 projetos/imagens/clima.png">
 <h3>Imagem do Projeto Clima</h3>
+<img widht=420 height=500 src="/B7/curso js/projetos/7 dias 7 projetos/imagens/clima.png">
 </img>
 
 <h3>Imagem do Projeto Jogo da Velha</h3>
