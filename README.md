@@ -20,19 +20,19 @@
 <div align="center">
 
 <h3>Imagem do Projeto Bateria</h3>
-<img widht=400 height=320 src="/B7/curso js/projetos/7 dias 7 projetos/imagens/bateria.png">
+<img widht=420 height=500 src="/B7/curso js/projetos/7 dias 7 projetos/imagens/bateria.png">
 </img>
 
 <h3>Imagem do Projeto Relógio</h3>
-<img widht=400 height=320 src="/B7/curso js/projetos/7 dias 7 projetos/imagens/relogio.png">
+<img widht=420 height=500 src="/B7/curso js/projetos/7 dias 7 projetos/imagens/relogio.png">
 </img>
 
-<img widht=400 height=320 src="/B7/curso js/projetos/7 dias 7 projetos/imagens/clima.png">
+<img widht=420 height=500 src="/B7/curso js/projetos/7 dias 7 projetos/imagens/clima.png">
 <h3>Imagem do Projeto Clima</h3>
 </img>
 
 <h3>Imagem do Projeto Jogo da Velha</h3>
-<img widht=400 height=320 src="/B7/curso js/projetos/7 dias 7 projetos/imagens/velha.png">
+<img widht=420 height=500 src="/B7/curso js/projetos/7 dias 7 projetos/imagens/velha.png">
 </img>
 
 </div>
