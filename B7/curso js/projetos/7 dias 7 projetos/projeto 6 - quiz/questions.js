@@ -92,12 +92,4 @@ let questions = [
         ],
         answer: 0
     },
-    {
-        question: 'Sua mãe sabe que você é viado?',
-        options: [
-            'Sim',
-            'Não'
-        ],
-        answer: 0
-    },
 ];
