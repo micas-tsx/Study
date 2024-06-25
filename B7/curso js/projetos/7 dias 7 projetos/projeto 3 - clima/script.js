@@ -14,7 +14,7 @@ document.querySelector('.busca').addEventListener('submit', async (event) => {
         showWarning('Carregando...')
 
         // pega a url pra fazer a requisição pra api
-        let url = `https://api.openweathermap.org/data/2.5/weather?q=${encodeURI(input)}&appid=1eec5256a174c3e09a354753467befb6&units=metric&lang=pt_br`
+        let url = `https://api.openweathermap.org/data/2.5/weather?q=${encodeURI(input)}&appid={use sua chave}units=metric&lang=pt_br`
         
         // manda esperar chegar os resultados da requisição
         let results = await fetch(url)
