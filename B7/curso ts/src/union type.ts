@@ -1,9 +1,9 @@
 // union types = multiplos types
 
-let idade: string | number | undefined = 90
+let idadeee: string | number | undefined = 90
 // o undefined é só para n gerar erro no código, pois n existe id idade
 
-idade = document.getElementById("idade")?.innerHTML // e o ? serve para n dar bug tbm pq n existe id idade
+idadeee = document.getElementById("idade")?.innerHTML // e o ? serve para n dar bug tbm pq n existe id idade
 
 
 // como funciona de uma forma mais pratica

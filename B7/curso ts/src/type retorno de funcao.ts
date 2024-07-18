@@ -7,7 +7,7 @@ function firstLetterUpperCasee(name: string): string {
     return firstLetter+name.substring(1)
 }
 
-let nome = firstLetterUpperCasee('micas')
+let nooome = firstLetterUpperCasee('micas')
 // n preciso efetivamente typar essa variavel pq ela ja vai efetivamente receber uma string
 
 // let nome: number  = firstLetterUpperCasee('micas')
